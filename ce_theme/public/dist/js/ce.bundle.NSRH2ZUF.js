@@ -25,7 +25,7 @@
           },
           {
             name: "ce_theme",
-            label: "ce_theme",
+            label: "CE Theme",
             info: "CE Theme"
           }
         ];
@@ -37,4 +37,4 @@
   // ../ce_theme/ce_theme/public/js/ce.bundle.js
   console.log("INJECTED FILE");
 })();
-//# sourceMappingURL=ce.bundle.UKAFI5SC.js.map
+//# sourceMappingURL=ce.bundle.NSRH2ZUF.js.map

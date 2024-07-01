@@ -25,7 +25,7 @@ frappe.ui.ThemeSwitcher = class CustomThemeSwitcher extends frappe.ui.ThemeSwitc
 				},
                 {
                     name:"ce_theme",
-                    label: "ce_theme",
+                    label: "CE Theme",
                     info: "CE Theme"
                 }
 			];
